@@ -35,3 +35,4 @@ Web development
     or meaning, of the information in webpages and web applications rather than merely to define its presentation or look."
   * we have self closing tags like for example: <br> <img> in this tag we 
     we can have attributes sr="" width="" height="".
+    Finally I got GIT working
