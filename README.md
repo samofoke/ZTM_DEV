@@ -35,4 +35,11 @@ Web development
     or meaning, of the information in webpages and web applications rather than merely to define its presentation or look."
   * we have self closing tags like for example: <br> <img> in this tag we 
     we can have attributes sr="" width="" height="".
-    Finally I got GIT working
+
+### Working with Git and Github
+
+* On git you need an access to login:
+    ~~~
+    $ git config --global user.name "John Doe"
+    $ git config --global user.email "johndoe@example.com"
+    ~~~
